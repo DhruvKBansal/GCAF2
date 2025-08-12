@@ -1,28 +1,23 @@
 # ✨ Google Cloud Arcade Facilitator Program ✨
 
-Welcome to the official leaderboard and resource hub for our Google Cloud Arcade Facilitator Program cohort! This is your central point for tracking progress and finding important information.
+Welcome to the official leaderboard and resource hub for our Google Cloud Arcade Facilitator Program cohort! **Registrations for this cohort are now closed.**
+
+This is your central point for tracking progress and finding important information.
 
 ---
 
 ### 🚀 **How to Get Started**
 
-Follow these steps to join the program and start earning points.
+If you have already registered, follow these steps to begin.
 
-#### **🎯 STEP 1: Register for the Program**
+#### **🎁 STEP 1: Claim Your 600 Credits**
 
-First, you need to register using the official facilitator program form.
-
--   **Registration Form:** [**https://shorturl.at/LHXwV**](https://shorturl.at/LHXwV)
--   **Your Referral Code:** `GCAF25C2-IN-33C-R7P`
-
-#### **🎁 STEP 2: Claim Your 600 Credits**
-
-After registering, you will receive a confirmation email.
+Check the confirmation email you received after registering to claim your credits.
 
 -   **Received the email?** Great, you can claim your credits now!
--   **Haven't received it?** Please wait up to 48 hours after filling out the form.
+-   **Haven't received it?** Please check your spam folder. Credits were sent to registered participants.
 
-#### **🕹️ STEP 3: Start the Games and Labs**
+#### **🕹️ STEP 2: Start the Games and Labs**
 
 Once you have your credits, you can start exploring the Arcade and earning points.
 
