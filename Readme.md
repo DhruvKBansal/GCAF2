@@ -11,7 +11,6 @@ This is your central point for tracking progress and finding important informati
 If you have already registered, follow these steps to begin.
 
 #### **🎁 STEP 1: Claim Your 600 Credits**
-#### **🎁 STEP 1: Claim Your 600 Credits**
 
 Check the confirmation email you received after registering to claim your credits.
 
